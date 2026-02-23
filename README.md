@@ -1,10 +1,10 @@
 # Hi, I'm Hostage
 
-`About Me`: A self-taught developer with roots in Chile and the United States. I started programming in 2022 and have since built a diverse portfolio across game development, server infrastructure, and automation.
+A self-taught developer with roots in Chile and the United States. I started programming in 2022 and have since built a diverse portfolio across game development, server infrastructure, and automation.
 
-`Specializations`: Luau · Python
+Specializations: Luau · Python
 
-`Past Work`:
+Past Work:
 
 - EX19 — A Roblox game inspired by Warzone, which gained viral traction on TikTok with 5M+ views (discord.gg/ex19)
 
