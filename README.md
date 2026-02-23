@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hostage
 
-<!--
-**hoostage/hoostage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`About Me`: A self-taught developer with roots in Chile and the United States. I started programming in 2022 and have since built a diverse portfolio across game development, server infrastructure, and automation.
 
-Here are some ideas to get you started:
+`Specializations`: Luau · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Past Work`:
+
+- EX19 — A Roblox game inspired by Warzone, which gained viral traction on TikTok with 5M+ views (discord.gg/ex19)
+
+- FiveM server development
+
+- Discord bot development
+
+`Always building. Always learning.`
