@@ -1,4 +1,5 @@
 # Hi, I'm Hostage
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hoostage.hoostage)
 
 A self-taught developer with roots in Chile and the United States. I started programming in 2022 and have since built a diverse portfolio across game development, server infrastructure, and automation.
 
