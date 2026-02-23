@@ -14,4 +14,4 @@ Past Work:
 
 `Always building. Always learning.`
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hoostage.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hoostage.hoostage)
