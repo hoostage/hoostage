@@ -1,6 +1,6 @@
 # Hi, I'm Hostage
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875170980564172841)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875170980564172841) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hoostage.hoostage)
 
 A self-taught developer with roots in Chile and the United States. I started programming in 2022 and have since built a diverse portfolio across game development, server infrastructure, and automation.
 
@@ -14,6 +14,6 @@ A self-taught developer with roots in Chile and the United States. I started pro
 
 - Discord bot development
 
-`Always building. Always learning.`
+If you have any questions, requests, or want to get in touch, send me an email at contact@hostage.info
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hoostage.hoostage)
+`Always building. Always learning.`
